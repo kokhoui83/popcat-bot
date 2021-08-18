@@ -9,7 +9,7 @@ const puppeteer = require('puppeteer-core');
   
   while (true) {
     await page.click('#app');
-    await delay(37);
+    await delay(5);
   }
 
   await browser.close();

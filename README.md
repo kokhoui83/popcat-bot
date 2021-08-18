@@ -1,6 +1,9 @@
 # Popcat Clicker Bot
 Click the cat
 
+![](./assets/popcat.png)
+
+
 ## Dependencies
 - Linux OS
 - Google Chrome
@@ -18,3 +21,6 @@ npm install
 ```
 npm start
 ```
+
+## Stop
+- Close the browser
